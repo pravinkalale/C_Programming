@@ -1,5 +1,3 @@
-Pravin 23
-Gajanan 25
-Shiv 23
-Arjun 23
-Gaurav 23
+pravin 23 96.80
+Prashant 25 90.40
+Kajal 26 91.50
